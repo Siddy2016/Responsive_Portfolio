@@ -37,21 +37,4 @@ design practices
 3) Feel free to use colors, text,images etc according to your best judgement.
 4) You are allowed to take ideas from external sources and other portfolio but do
 not use any of their code. 
-Evaluation Basis
-This project will be evaluated on following basis -
-1) Quality of CSS and HTML code - ​ Your website’s CSS and HTML code should
-be of best quality possible and without any bugs.
-2) Responsive Design - ​ Your website should be full responsive. It will be checked
-thoroughly for all the things that have been taught to you in the level.
-3) I ​ ntuitive Thinking - ​ You will get marks for intuitive thinking and creativity. So
-try to be as creative as you can.
-4) Originality of code - ​ Your code will be checked for plagiarism and if it's not
-original, it will be discarded with a negative skill score.Deliverables from Candidate
-1) A Text File containing the link of Github repository containing all your code along with
-images and other resources used in your website.
-2) A Text file containing the link of Github pages where you have hosted this website.
-Create a folder containing both deliverables. Compressed all these into a ZIP/RAR format and
-then submit it on the assignment page
-Warning​ - Do not submit incomplete or wrong assignments. They will result in
-negative skill score. Also, you will not a get a second attempt at the assignment!
-So whatever score you get will be the final score
+
